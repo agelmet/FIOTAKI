@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/marianna-fiotaki-icon.svg"
+ },
+ "source_md5": "271fee3c9bc5084c827b05d80b990c4b",
+ "version": "0a9ea4da",
+ "tile": null,
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "068d68a02eb2bd612a879cbf8810306f"
+ ],
+ "made": "2026-11-18"
+}
