@@ -1,11 +1,11 @@
 {
  "source": {
-  "kind": "text",
-  "ref": "monogram «ΜΦ»"
+  "kind": "file",
+  "ref": "assets/img/marianna-fiotaki-kymatismos-icon.svg"
  },
- "source_md5": "c6651c42d82391ebecb65efcfbc63625",
- "version": "44ce7811",
- "tile": "#D9C6C0",
+ "source_md5": "098ad14781ee7cc191ad954134f6c9d6",
+ "version": "31367b4c",
+ "tile": null,
  "crop": null,
  "header": null,
  "made": "2026-11-25"
